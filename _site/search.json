@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sarasota County Race Data Directory",
+    "section": "",
+    "text": "This website presents a formal summary of the Sarasota County race data directory, based on the 2020 Decennial Census dataset stored locally in the project. The page is intended to provide a concise and readable directory-style overview of the county’s population composition.\n\n\n\nGeographic area: Sarasota County, Florida\nTotal population: 434,006\nSource file: data/sarasota_race.csv\n\n\n\n\n\n\n\n\n\nCategory\nPopulation\n\n\n\n\nWhite\n359053\n\n\nHispanic / Latino\n43236\n\n\nBlack\n16781\n\n\nAsian\n8515\n\n\nNative American\n1320\n\n\nPacific Islander\n182"
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Sarasota County Race Data Directory",
+    "section": "",
+    "text": "This website presents a formal summary of the Sarasota County race data directory, based on the 2020 Decennial Census dataset stored locally in the project. The page is intended to provide a concise and readable directory-style overview of the county’s population composition.\n\n\n\nGeographic area: Sarasota County, Florida\nTotal population: 434,006\nSource file: data/sarasota_race.csv\n\n\n\n\n\n\n\n\n\nCategory\nPopulation\n\n\n\n\nWhite\n359053\n\n\nHispanic / Latino\n43236\n\n\nBlack\n16781\n\n\nAsian\n8515\n\n\nNative American\n1320\n\n\nPacific Islander\n182"
+  },
+  {
+    "objectID": "index.html#population-by-race-group",
+    "href": "index.html#population-by-race-group",
+    "title": "Sarasota County Race Data Directory",
+    "section": "Population by Race Group",
+    "text": "Population by Race Group"
+  }
+]
