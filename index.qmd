@@ -13,6 +13,7 @@ format:
 #| warning: false
 
 library(tidyverse)
+library(plotly)
 
 race_data <- read_csv("data/sarasota_race.csv")
 
@@ -67,7 +68,7 @@ race_data_long |>
 #| echo: false
 #| warning: false
 
-race_data_long |>
+race_plot <- race_data_long |>
   ggplot(aes(x = category, y = population, fill = category)) +
   geom_col(width = 0.7) +
   scale_fill_brewer(palette = "Set2") +
@@ -82,4 +83,6 @@ race_data_long |>
     axis.text.x = element_text(angle = 45, hjust = 1),
     plot.title = element_text(face = "bold")
   )
+
+plotly::ggplotly(race_plot, tooltip = c("x", "y"))
 ```
