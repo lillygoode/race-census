@@ -2,22 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sarasota County Race Data Directory",
+    "title": "Florida County Dog Ownership and Census Change",
     "section": "",
-    "text": "This website presents a formal summary of the Sarasota County race data directory, based on the 2020 Decennial Census dataset stored locally in the project. The page is intended to provide a concise and readable directory-style overview of the county’s population composition.\n\n\n\nGeographic area: Sarasota County, Florida\nTotal population: 434,006\nSource file: data/sarasota_race.csv\n\n\n\n\n\n\n\n\n\nCategory\nPopulation\n\n\n\n\nWhite\n359053\n\n\nHispanic / Latino\n43236\n\n\nBlack\n16781\n\n\nAsian\n8515\n\n\nNative American\n1320\n\n\nPacific Islander\n182"
+    "text": "This page combines a county-level census view with estimated dog ownership for each year. Use the layer switcher in the upper-right corner to move through 2000, 2010, and 2020, or think of it as a simple play-through of the changing county picture.\n\n\n\n2020 estimated Florida dog ownership: 6,400,000 dogs\n2020 estimated households with dogs: 3,320,000\nCounty map colors represent estimated dogs owned, while hover labels show both dog ownership and census composition."
   },
   {
     "objectID": "index.html#overview",
     "href": "index.html#overview",
-    "title": "Sarasota County Race Data Directory",
+    "title": "Florida County Dog Ownership and Census Change",
     "section": "",
-    "text": "This website presents a formal summary of the Sarasota County race data directory, based on the 2020 Decennial Census dataset stored locally in the project. The page is intended to provide a concise and readable directory-style overview of the county’s population composition.\n\n\n\nGeographic area: Sarasota County, Florida\nTotal population: 434,006\nSource file: data/sarasota_race.csv\n\n\n\n\n\n\n\n\n\nCategory\nPopulation\n\n\n\n\nWhite\n359053\n\n\nHispanic / Latino\n43236\n\n\nBlack\n16781\n\n\nAsian\n8515\n\n\nNative American\n1320\n\n\nPacific Islander\n182"
+    "text": "This page combines a county-level census view with estimated dog ownership for each year. Use the layer switcher in the upper-right corner to move through 2000, 2010, and 2020, or think of it as a simple play-through of the changing county picture.\n\n\n\n2020 estimated Florida dog ownership: 6,400,000 dogs\n2020 estimated households with dogs: 3,320,000\nCounty map colors represent estimated dogs owned, while hover labels show both dog ownership and census composition."
   },
   {
-    "objectID": "index.html#population-by-race-group",
-    "href": "index.html#population-by-race-group",
-    "title": "Sarasota County Race Data Directory",
-    "section": "Population by Race Group",
-    "text": "Population by Race Group"
+    "objectID": "index.html#notes",
+    "href": "index.html#notes",
+    "title": "Florida County Dog Ownership and Census Change",
+    "section": "Notes",
+    "text": "Notes\nThis version uses a simple estimate to connect the census county totals with a statewide dog-ownership trend. The map is designed to show both the demographic changes and the evolving dog-ownership picture in one place."
+  },
+  {
+    "objectID": "reference-census-race-2/index.html",
+    "href": "reference-census-race-2/index.html",
+    "title": "Florida Census Demographics (2000–2020)",
+    "section": "",
+    "text": "Between 2000 and 2020, Florida saw significant demographic shifts across all major racial and ethnic groups:\n\nHispanic: Substantial increases statewide, especially in central and southwest Florida.\nWhite (non-Hispanic): Decreased as a overall percentage of population in almost all 67 counties.\nBlack: Steady population shares in northern counties, with growth in select central and southern metros.\nAsian: Steady percentage growth across major suburban and university counties.\n\nUse the radio buttons in the upper right to toggle which demographic shift colors the map. Hover over any county to view the full 20-year shift for all four groups."
+  },
+  {
+    "objectID": "reference-census-race-2/index.html#two-decades-of-demographic-change-across-florida",
+    "href": "reference-census-race-2/index.html#two-decades-of-demographic-change-across-florida",
+    "title": "Florida Census Demographics (2000–2020)",
+    "section": "",
+    "text": "Between 2000 and 2020, Florida saw significant demographic shifts across all major racial and ethnic groups:\n\nHispanic: Substantial increases statewide, especially in central and southwest Florida.\nWhite (non-Hispanic): Decreased as a overall percentage of population in almost all 67 counties.\nBlack: Steady population shares in northern counties, with growth in select central and southern metros.\nAsian: Steady percentage growth across major suburban and university counties.\n\nUse the radio buttons in the upper right to toggle which demographic shift colors the map. Hover over any county to view the full 20-year shift for all four groups."
+  },
+  {
+    "objectID": "reference-census-race-2/about.html",
+    "href": "reference-census-race-2/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
